@@ -1,0 +1,33 @@
+.navbar__container {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar__container-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar__container-links > *{
+    padding: 1rem;
+}
+
+.navbar__container-shop-button {
+    display: flex;
+}
+
+.navbar__container-shop-button > * {
+    padding: 1rem;
+}
+
+.navbar__container-shop-button button {
+    padding: 1rem;
+}
+
+.meny {
+    cursor: pointer;
+}
+
+.img1 {
+    height: 100px;
+}
